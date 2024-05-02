@@ -1,0 +1,42 @@
+h1{
+    color: blue;
+    background-color: #ffff00;
+    font-style: italic;
+    text-align: center;
+}
+h2{
+    color: red;
+    background-color: blue;
+    font-style: normal;
+    border-top: 15px solid red;
+    border-left: 15px dotted yellow;
+    border-right: 15px dashed black;
+    border-bottom: 15px double green;
+    height: 15rem;
+
+}
+h3{
+    color: yellow;
+    background-color: green;
+    font-style: oblique;
+}
+h4{
+    color: green;
+    background-color: yellow;
+    font-style: inherit;
+    margin: 25px;
+    padding: 25px;
+}
+h5{
+    color: grey;
+    background-color: cyan;
+    font-style: initial;
+    border: 5px solid red;
+    width: 50%;
+}
+h6{
+    color: maroon;
+    background-color: black;
+   font-size: 2rem;
+   margin-left: 25px;
+}
